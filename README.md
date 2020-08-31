@@ -6,7 +6,7 @@ This is `Luke Huang`.
  - 2005.09-2009.06: Beijing Jiaotong University
 
 ## Work Experience
-
+ - DONICA 2013.8-2016.12
 
 ## Skills
  - Java/Android/PHP/Javascript
