@@ -5,7 +5,7 @@ This is `Luke Huang`.
 ## Education
  - 2005.09-2009.06: Beijing Jiaotong University
 
-## Work Experience
+## [Work Experience](./work-experience.md)
  - DONICA 2013.8-2016.12
 
 ## Skills
